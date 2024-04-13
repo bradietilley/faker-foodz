@@ -21,7 +21,7 @@ All images are 1024*1024 60% quality JPEGs, resulting in 50-130KB per image.
 
 - [Catz](https://github.com/bradietilley/faker-catz)
 - [Dogz](https://github.com/bradietilley/faker-dogz)
-- [Foodz](https://github.com/bradietilley/faker-foodz)
+- [Foodz](https://github.com/bradietilley/faker-foodz) You are here.
 
 
 ## Installation
@@ -44,10 +44,6 @@ foodz()->path();                             // string path: /path/to/pics/food_
 foodz()->all();                              // array of string paths
 ```
 
-
-## Roadmap
-
-- More pics
 
 ## Author
 
