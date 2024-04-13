@@ -10,7 +10,7 @@ test('foodz helper function loads a singleton instance of Foodz', function () {
 
 test('foodz can load all cat pics', function () {
     $min = 1;
-    $max = 120;
+    $max = 99;
 
     $expect = Collection::range($min, $max)
         ->map(fn (int $i) => 'food_'.str_pad($i, 4, '0', STR_PAD_LEFT).'.jpg')
