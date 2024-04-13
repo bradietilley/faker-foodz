@@ -8,7 +8,7 @@ Your one-stop shop for fake avatars - but food!
 
 ## Introduction
 
-FakerFoodz is a lightweight PHP package designed to generate fake food images that can be used for a variety of purposes, like avatars and other placeholders for web development *paw*poses.
+FakerFoodz is a lightweight PHP package designed to generate fake food images that can be used for a variety of purposes, like avatars and other placeholders.
 
 All images are 1024*1024 60% quality JPEGs, resulting in 50-130KB per image.
 
